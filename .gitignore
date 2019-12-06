@@ -4,4 +4,4 @@ _site/
 pkg/
 test/
 
-./jekyll-cache/*
+.jekyll-cache/*
