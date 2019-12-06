@@ -3,3 +3,5 @@ _site/
 *.swp
 pkg/
 test/
+
+./jekyll-cache/*
