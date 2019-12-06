@@ -5,3 +5,4 @@ pkg/
 test/
 
 .jekyll-cache/*
+Gemfile.lock
