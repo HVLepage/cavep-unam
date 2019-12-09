@@ -1,23 +1,22 @@
 ---
 layout: page
-title: The Jekyll Team
+title: The CavEP Team
 permalink: /team/
 ---
 
-## Core Team
+## University of Cambridge
 
-_The Jekyll Core Team's responsibility is to ensure the development and
-community around the Jekyll ecosystem thrive._
+_Little blurb on the Cambridge team..._
 
-* Ashwin (@ashmaroli)
-* Frank (@DirtyF)
-* Matt (@mattr-)
+* <a href="https://www.phy.cam.ac.uk/directory/barnesc">Crispin H. W. Barnes</a>
+* add
+* add
 
-## Emeritus Core Team Members
+## Universidad Nacional de Moquegua
 
-_Emeritus Core Team Members were once members of Jekyll's Core Team._
+_Little blurb on the UNAM team_
 
-* Alfred (@alfredxing)
-* Nick (@qrush)
-* Parker (@parkr)
-* Tom (@mojombo)
+* ???
+* ???
+* ???
+* ???
