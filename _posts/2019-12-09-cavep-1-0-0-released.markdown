@@ -3,7 +3,7 @@ title: 'Online platform is realeased!'
 date: 2019-12-09 16:30:00 
 author: hvlepage
 version: 1.0.0
-category: release
+category: Website
 ---
 
 Hi! Welcome to the first live version of the CavEP online distribution platform!
