@@ -55,3 +55,6 @@ exclude:
 - CNAME
 - icomoon-selection.json
 - readme.md
+algolia:
+  application_id: 'B1U5C0ZOK0'
+  index_name: 'dev_CavEP-UNAM'
