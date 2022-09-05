@@ -13,6 +13,7 @@ permalink: /team/
 
 ## Universidad Nacional de Moquegua
 
-* **Dr. Oswaldo Napoleon Ramos Chumpitaz**, president of the Commission of Organization.
-* **Dr Jorge Hugo Jhoncon Kooyip**, vice president for research ofthe Commission of Organization.
+* **Dr Washington Zeballos Gamez**, president.
+* **Dr Alberto Quispe Cohaila**, vice president of research.
 * **Mag. Maribel Rocio Pacheco Centeno**, Head of Research Management Office.
+* **Elias Escobedo Pacheco**, Head of Field Research.
